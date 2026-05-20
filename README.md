@@ -155,9 +155,3 @@ Trading-Operations-Excel-Dashboard/
 Isaac Odusanya
 
 Data Analyst | Trader
-
----
-
-# 📜 License
-
-MIT License
