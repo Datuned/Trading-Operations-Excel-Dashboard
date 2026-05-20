@@ -1,21 +1,19 @@
 # 📊 Trading Operations Analyst Excel Dashboard
 
-## 📊 Trading Operations Excel Model
+## 📥 Download Trading Operations Excel Dashboard
 
-The full Excel analytics model is available for download:
+👉 **[Download Excel File (.xlsx)](https://github.com/Datuned/Trading-Operations-Excel-Dashboard/raw/master/DASHBOARD/Trading_Operations_Dashboard.xlsx)**
 
-🔗 **Download File:**  
-[Trading_Operations_Dashboard.xlsx](https://github.com/Datuned/Trading-Operations-Excel-Dashboard/raw/main/Dashboard/Trading_Operations_Dashboard.xlsx)
+This Excel model includes a full Trading Operations analytics system built with:
 
----
+- Power Query ETL pipeline
+- Power Pivot data model
+- DAX performance measures
+- Pivot Table controller layer
+- Cube formula reporting system
+- Interactive dashboard visuals
 
-### 🧠 What’s Inside
-- End-to-end trading data pipeline
-- Power Query transformations
-- Data model (Power Pivot)
-- DAX performance metrics
-- Interactive dashboard layer
-- Cube-function based reporting system
+The file demonstrates institutional-style trading analytics and reporting architecture.
 
 ## Overview
 
