@@ -5,7 +5,7 @@
 The full Excel analytics model is available for download:
 
 🔗 **Download File:**  
-[Trading_Operations_Dashboard.xlsx](https://github.com/Datuned/Trading-Operations-Excel-Dashboard/raw/main/DASHBOARD/Trading_Operations_Dashboard.xlsx)
+[Trading_Operations_Dashboard.xlsx](https://github.com/Datuned/Trading-Operations-Excel-Dashboard/raw/main/Dashboard/Trading_Operations_Dashboard.xlsx)
 
 ---
 
