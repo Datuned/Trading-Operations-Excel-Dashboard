@@ -126,9 +126,11 @@ Trading-Operations-Excel-Dashboard/
 
 # 📸 Dashboard Preview
 
-![Dashboard Overview](/SCREENSHOTS/dashboard1.png)
+![Dashboard Overview](SCREENSHOTS/dashboard1.png)
 
-![Dashboard Overview](/SCREENSHOTS/dashboard2.png)
+![Dashboard Overview](SCREENSHOTS/dashboard2.png)
+
+![Report](SCREENSHOTS/report.png)
 
 ---
 
